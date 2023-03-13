@@ -1,5 +1,5 @@
 title:OllieJT's Wish List
 
 // Wilderflight (god-pve,pve)
-//notes: tags:god-pve,pve
-dimwishlist:item=2306182339&perks=
+//notes: tags:pve
+dimwishlist:item=2306182339&perks=3032599245,3300816228
